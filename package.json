@@ -1,0 +1,19 @@
+{
+  "name": "nerwen",
+  "version": "1.0.0",
+  "description": "A program to monitor how much usage of electricity using the Energinie plugs.",
+  "main": "app.js",
+  "scripts": {
+    "test": "eslint --ignore-path .gitignore ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nethercott/Nerwen.git"
+  },
+  "author": "Christopher Nethercott",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nethercott/Nerwen/issues"
+  },
+  "homepage": "https://github.com/Nethercott/Nerwen#readme"
+}
