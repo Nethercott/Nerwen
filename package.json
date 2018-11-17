@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Nethercott/Nerwen/issues"
   },
-  "homepage": "https://github.com/Nethercott/Nerwen#readme"
+  "homepage": "https://github.com/Nethercott/Nerwen#readme",
+  "devDependencies": {
+    "eslint": "^5.9.0"
+  }
 }
