@@ -18,5 +18,10 @@
   "homepage": "https://github.com/Nethercott/Nerwen#readme",
   "devDependencies": {
     "eslint": "^5.9.0"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "mihome": "^1.0.1",
+    "moment": "^2.22.2"
   }
 }
